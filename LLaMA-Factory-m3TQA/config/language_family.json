@@ -1,0 +1,47 @@
+{
+    "Indo-European languages": [
+        "Afrikaans", "Danish", "Dutch", "English", "German", "Icelandic", "Norwegian", 
+        "Swedish", "Catalan", "French", "Italian", "Portuguese", "Romanian", "Spanish",
+        "Latin", "Belarusian", "Russian", "Ukrainian", "Czech", "Polish", "Slovak", 
+        "Bosnian", "Bulgarian", "Croatian", "Macedonian", "Serbian", "Slovenian", 
+        "Assamese", "Bengali", "Bhojpuri", "Gujarati", "Hindi", "Marathi", "Nepali",
+        "Punjabi", "Romany", "Sanskrit", "Sinhalese", "Urdu", "Pashto", "Persian", 
+        "Tajik", "Balochi", "Latvian", "Lithuanian", "Irish", "Greek", "Albanian"
+    ], 
+    "Afroasiatic languages": [
+        "Arabic", "Algerian Arabic", "Amharic", "Hebrew", 
+        "Maltese", "Hausa", "Afar", "Somali"
+    ], 
+    "Niger-Congo languages": [
+        "Chichewa", "Kinyarwanda", "Kongo", "Swahili", "Xhosa", 
+        "Zulu", "Yoruba", "Mossi"
+    ],
+    "Austronesian languages": [
+        "Balinese", "Filipino", "Indonesian", "Javanese", "Malagasy", 
+        "Malay", "Maori"
+    ], 
+    "Sino-Tibetan languages": [
+        "Chinese", "Burmese"
+    ],
+    "Turkic languages": [
+        "Kazakh", "Kyrgyz", "Turkish", "Uyghur", "Uzbek"
+    ],
+    "Dravidian languages": [
+        "Kannada", "Malayalam", "Tamil", "Telugu"
+    ],
+    "Uralic languages": [
+        "Estonian", "Finnish", "Hungarian"
+    ],
+    "Austroasiatic languages": [
+        "Cambodian", "Vietnamese"
+    ],
+    "Kra-Dai languages": [
+        "Laotian", "Thai"
+    ],
+    "Mongolic languages": [
+        "Mongolian", "Kalmyk"
+    ],
+    "Language isolate": [
+        "Basque", "Korean", "Japanese", "Georgian", "Quechua", "Greenlandic"
+    ]
+}
